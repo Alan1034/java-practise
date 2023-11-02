@@ -14,7 +14,7 @@ public class HelloWorld {
   // void：返回类型
   // main：方法名
   // String：String类
-  // args：字符串数组
+  // args：字符串数组（参数）
   public static void main(String[] args){
     System.out.println("Hello World");
     System.out.println("欢迎");
